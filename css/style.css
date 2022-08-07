@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+.blanco {
+    background-color: white;
+    border: 1px solid;
+}
+.altura1 {
+    height: 640px;
+}
+.rojo {
+    background-color: red;
+    border: 1px solid;
+}
+.altura2 {
+    height: 100px;
+}
+.altura3 {
+    height: 400px;
+}
+.row {
+    border: 1px solid;
+}
+.altura5 {
+    height: 100px;
+}
+.verde {
+    background-color: green;
+}
+.azul {
+    background-color: blue;
+}
